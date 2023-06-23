@@ -1,0 +1,25 @@
+div:first-child {
+  background-color: lime;
+  height: 150px;
+  width: 150px;
+}
+
+div:nth-child(2) {
+  background-color: royalblue;
+}
+
+.small {
+  height: 50px;
+  width: 50px;
+}
+
+.circle {
+  border-radius: 100px;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: rebeccapurple;
+  margin: 10px;
+}
